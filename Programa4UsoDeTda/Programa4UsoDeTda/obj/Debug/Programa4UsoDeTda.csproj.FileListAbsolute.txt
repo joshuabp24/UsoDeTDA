@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\Programa4UsoDeTda\Programa4UsoDeTda\bin\Debug\Programa4UsoDeTda.exe.config
+C:\Users\PC\source\repos\Programa4UsoDeTda\Programa4UsoDeTda\bin\Debug\Programa4UsoDeTda.exe
+C:\Users\PC\source\repos\Programa4UsoDeTda\Programa4UsoDeTda\bin\Debug\Programa4UsoDeTda.pdb
+C:\Users\PC\source\repos\Programa4UsoDeTda\Programa4UsoDeTda\obj\Debug\Programa4UsoDeTda.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Programa4UsoDeTda\Programa4UsoDeTda\obj\Debug\Programa4UsoDeTda.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Programa4UsoDeTda\Programa4UsoDeTda\obj\Debug\Programa4UsoDeTda.exe
+C:\Users\PC\source\repos\Programa4UsoDeTda\Programa4UsoDeTda\obj\Debug\Programa4UsoDeTda.pdb
